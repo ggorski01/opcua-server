@@ -1,0 +1,1626 @@
+2025-03-07 19:32:22,917 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,918 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,919 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,922 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,925 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,926 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,926 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,927 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,927 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,928 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,929 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,929 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,930 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,930 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,931 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,932 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,933 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,934 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,934 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,935 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,935 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,936 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:22,937 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,071 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,071 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,074 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,074 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,075 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,075 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,076 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,076 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,078 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:32:23,078 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,079 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,079 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,079 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,080 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,080 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,080 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,081 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,081 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,081 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:32:23,240 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,499 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,503 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,504 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,514 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,514 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,515 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,515 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,515 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,516 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,516 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,516 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,517 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,517 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,517 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,518 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,518 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,519 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,519 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,519 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,520 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,520 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,521 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,521 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,521 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,522 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,522 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,522 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,523 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,523 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,524 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,524 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,525 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,525 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,526 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,526 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,527 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,527 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,527 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,528 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,528 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:32:23,575 - INFO - Created internal session Internal
+2025-03-07 19:37:22,186 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,186 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,187 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,190 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,193 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,193 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,194 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,195 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,195 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,196 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,198 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,200 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,203 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,206 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,207 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,207 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,208 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,209 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,210 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,211 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,212 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,213 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,215 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,345 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,346 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,348 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,348 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,349 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,350 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,350 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,351 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,352 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:37:22,353 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,353 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,354 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,354 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,354 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,355 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,355 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,355 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,355 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,356 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:22,510 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,762 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,765 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,766 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,776 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,777 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,777 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,777 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,778 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,778 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,778 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,779 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,779 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,779 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,780 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,781 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,781 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,781 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,782 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,782 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,783 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,783 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,783 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,784 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,784 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,784 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,785 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,786 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,786 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,787 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,787 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,788 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,788 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,788 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,789 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,789 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,789 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,790 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,790 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,790 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,791 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:22,834 - INFO - Created internal session Internal
+2025-03-07 19:37:22,838 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:37:22,839 - INFO - starting internal server
+2025-03-07 19:37:22,925 - WARNING - Listening on localhost:4840
+2025-03-07 19:37:22,925 - INFO - Server started at ParseResult(scheme='opc.tcp', netloc='localhost:4840', path='/freeopcua/server/', params='', query='', fragment='')
+2025-03-07 19:37:23,835 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-03-07 19:37:23,836 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 19:37:23,839 - INFO -  * Restarting with stat
+2025-03-07 19:37:24,817 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,818 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,818 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,822 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,824 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,825 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,825 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,826 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,826 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,827 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,827 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,828 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,829 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,829 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,830 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,830 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,831 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,831 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,832 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,833 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,833 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,834 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,835 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,976 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,976 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,979 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,979 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,980 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,980 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,981 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,982 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:24,984 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:37:24,985 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,985 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,986 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,986 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,987 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,987 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,988 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,988 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,989 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:24,990 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:37:25,155 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,418 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,422 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,423 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,435 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,436 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,436 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,437 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,437 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,438 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,438 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,438 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,439 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,439 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,440 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,440 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,440 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,441 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,441 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,442 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,442 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,442 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,443 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,443 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,443 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,444 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,444 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,444 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,445 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,445 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,445 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,446 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,446 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,446 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,447 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,447 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,447 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,448 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,448 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,449 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,449 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:37:25,493 - INFO - Created internal session Internal
+2025-03-07 19:37:25,497 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:37:25,497 - INFO - starting internal server
+2025-03-07 19:37:25,516 - INFO - stopping internal server
+2025-03-07 19:37:25,517 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:37:25,517 - INFO - delete subscriptions: []
+2025-03-07 19:37:25,518 - ERROR - Failed to start OPC UA server: [Errno 10048] error while attempting to bind on address ('::1', 4840, 0, 0): [winerror 10048] only one usage of each socket address (protocol/network address/port) is normally permitted
+2025-03-07 19:37:25,519 - INFO - Closing asyncio socket server
+2025-03-07 19:37:25,520 - INFO - stopping internal server
+2025-03-07 19:37:25,520 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:37:25,521 - INFO - delete subscriptions: []
+2025-03-07 19:37:25,521 - INFO - OPC UA Server stopped.
+2025-03-07 19:37:25,528 - WARNING -  * Debugger is active!
+2025-03-07 19:37:25,535 - INFO -  * Debugger PIN: 692-304-562
+2025-03-07 19:37:44,168 - INFO - 127.0.0.1 - - [07/Mar/2025 19:37:44] "GET /temperature HTTP/1.1" 200 -
+2025-03-07 19:38:23,300 - INFO - Temperature manually updated by admin to: 5°C
+2025-03-07 19:38:23,300 - INFO - 127.0.0.1 - - [07/Mar/2025 19:38:23] "POST /temperature HTTP/1.1" 200 -
+2025-03-07 19:49:30,494 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,495 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,495 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,498 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,501 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,501 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,502 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,503 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,503 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,504 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,504 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,505 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,505 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,505 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,506 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,506 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,507 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,507 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,508 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,508 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,509 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,509 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,510 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,635 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,635 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,638 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,638 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,639 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,640 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,640 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,641 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:30,642 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:49:30,643 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,644 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,644 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,644 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,645 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,645 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,645 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,646 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,646 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,646 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:30,850 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,041 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,045 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,046 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,056 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,056 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,057 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,057 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,058 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,058 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,058 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,059 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,059 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,060 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,060 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,061 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,061 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,061 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,062 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,062 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,063 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,063 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,063 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,064 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,064 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,065 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,065 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,065 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,066 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,066 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,067 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,067 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,067 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,068 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,068 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,069 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,069 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,069 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,070 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,070 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,070 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:31,113 - INFO - Created internal session Internal
+2025-03-07 19:49:31,117 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:49:31,118 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:49:31,118 - INFO - starting internal server
+2025-03-07 19:49:31,142 - WARNING - Listening on localhost:4840
+2025-03-07 19:49:31,143 - INFO - Server started at ParseResult(scheme='opc.tcp', netloc='localhost:4840', path='/freeopcua/server/', params='', query='', fragment='')
+2025-03-07 19:49:32,049 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-03-07 19:49:32,050 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 19:49:32,053 - INFO -  * Restarting with stat
+2025-03-07 19:49:33,124 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:49:33,470 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,470 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,471 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,474 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,477 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,477 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,478 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,478 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,478 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,479 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,479 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,480 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,480 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,481 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,481 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,482 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,482 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,483 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,483 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,484 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,484 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,484 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,485 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,604 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,605 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,607 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,608 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,609 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,609 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,610 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,610 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:33,612 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:49:33,612 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,613 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,613 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,613 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,614 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,614 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,614 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,615 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,615 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,615 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:49:33,825 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,021 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,025 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,026 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,036 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,036 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,037 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,037 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,037 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,038 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,038 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,038 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,039 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,039 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,040 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,040 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,040 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,041 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,042 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,042 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,043 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,043 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,044 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,044 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,045 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,045 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,045 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,046 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,046 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,046 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,047 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,047 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,048 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,048 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,049 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,049 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,049 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,050 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,050 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,050 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,051 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:49:34,094 - INFO - Created internal session Internal
+2025-03-07 19:49:34,097 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:49:34,098 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:49:34,104 - INFO - starting internal server
+2025-03-07 19:49:34,120 - INFO - stopping internal server
+2025-03-07 19:49:34,120 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:49:34,121 - INFO - delete subscriptions: []
+2025-03-07 19:49:34,122 - ERROR - Failed to start OPC UA server: [Errno 10048] error while attempting to bind on address ('127.0.0.1', 4840): [winerror 10048] only one usage of each socket address (protocol/network address/port) is normally permitted
+2025-03-07 19:49:34,122 - INFO - Closing asyncio socket server
+2025-03-07 19:49:34,123 - INFO - stopping internal server
+2025-03-07 19:49:34,123 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:49:34,124 - INFO - delete subscriptions: []
+2025-03-07 19:49:34,124 - INFO - OPC UA Server stopped.
+2025-03-07 19:49:34,133 - WARNING -  * Debugger is active!
+2025-03-07 19:49:34,140 - INFO -  * Debugger PIN: 692-304-562
+2025-03-07 19:49:35,125 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:49:36,105 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:49:37,126 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:49:38,106 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:49:39,127 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:49:40,107 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:49:41,128 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:49:42,108 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:49:43,129 - INFO - Temperature updated: 23.2°C
+2025-03-07 19:49:44,108 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:49:45,130 - INFO - Temperature updated: 23.3°C
+2025-03-07 19:49:46,109 - INFO - Temperature updated: 23.2°C
+2025-03-07 19:49:47,131 - INFO - Temperature updated: 23.4°C
+2025-03-07 19:49:48,110 - INFO - Temperature updated: 23.3°C
+2025-03-07 19:49:49,132 - INFO - Temperature updated: 23.5°C
+2025-03-07 19:49:50,111 - INFO - Temperature updated: 23.4°C
+2025-03-07 19:49:51,133 - INFO - Temperature updated: 23.6°C
+2025-03-07 19:49:52,112 - INFO - Temperature updated: 23.5°C
+2025-03-07 19:49:53,134 - INFO - Temperature updated: 23.7°C
+2025-03-07 19:49:54,113 - INFO - Temperature updated: 23.6°C
+2025-03-07 19:49:55,135 - INFO - Temperature updated: 23.8°C
+2025-03-07 19:49:56,114 - INFO - Temperature updated: 23.7°C
+2025-03-07 19:49:57,136 - INFO - Temperature updated: 23.9°C
+2025-03-07 19:49:58,115 - INFO - Temperature updated: 23.8°C
+2025-03-07 19:49:59,137 - INFO - Temperature updated: 24.0°C
+2025-03-07 19:50:00,115 - INFO - Temperature updated: 23.9°C
+2025-03-07 19:50:01,137 - INFO - Temperature updated: 24.1°C
+2025-03-07 19:50:02,116 - INFO - Temperature updated: 24.0°C
+2025-03-07 19:50:03,138 - INFO - Temperature updated: 24.2°C
+2025-03-07 19:50:04,117 - INFO - Temperature updated: 24.1°C
+2025-03-07 19:50:05,139 - INFO - Temperature updated: 24.3°C
+2025-03-07 19:50:06,117 - INFO - Temperature updated: 24.2°C
+2025-03-07 19:50:07,140 - INFO - Temperature updated: 24.4°C
+2025-03-07 19:50:08,118 - INFO - Temperature updated: 24.3°C
+2025-03-07 19:50:09,141 - INFO - Temperature updated: 24.5°C
+2025-03-07 19:50:10,119 - INFO - Temperature updated: 24.4°C
+2025-03-07 19:50:11,142 - INFO - Temperature updated: 24.6°C
+2025-03-07 19:50:12,120 - INFO - Temperature updated: 24.5°C
+2025-03-07 19:50:12,387 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:12] "[32mGET /apidocs HTTP/1.1[0m" 308 -
+2025-03-07 19:50:12,520 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:12] "GET /apidocs/ HTTP/1.1" 200 -
+2025-03-07 19:50:12,614 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:12] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-03-07 19:50:12,679 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:12] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-03-07 19:50:12,739 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:12] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-03-07 19:50:12,864 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:12] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-03-07 19:50:13,143 - INFO - Temperature updated: 24.7°C
+2025-03-07 19:50:13,719 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:13] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-03-07 19:50:14,121 - INFO - Temperature updated: 24.6°C
+2025-03-07 19:50:15,144 - INFO - Temperature updated: 24.8°C
+2025-03-07 19:50:16,122 - INFO - Temperature updated: 24.7°C
+2025-03-07 19:50:17,145 - INFO - Temperature updated: 24.9°C
+2025-03-07 19:50:18,123 - INFO - Temperature updated: 24.8°C
+2025-03-07 19:50:19,146 - INFO - Temperature updated: 25.0°C
+2025-03-07 19:50:20,124 - INFO - Temperature updated: 24.9°C
+2025-03-07 19:50:21,147 - INFO - Temperature updated: 25.1°C
+2025-03-07 19:50:21,436 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/ HTTP/1.1" 200 -
+2025-03-07 19:50:21,574 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/deps/prop-types@15.v2_9_3m1741394719.8.1.min.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,576 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/deps/react-dom@16.v2_9_3m1741394719.14.0.min.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,594 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/deps/react@16.v2_9_3m1741394719.14.0.min.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,607 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/deps/polyfill@7.v2_9_3m1741394719.12.1.min.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,633 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components-shared.v2_9_2m1741394719.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,660 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/dash-renderer/build/dash_renderer.v2_9_3m1741394719.min.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,671 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/dash_table/bundle.v5_2_4m1741394719.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,685 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components.v2_9_2m1741394719.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,690 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-component-suites/dash/html/dash_html_components.v2_0_11m1741394719.min.js HTTP/1.1" 200 -
+2025-03-07 19:50:21,856 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-layout HTTP/1.1" 200 -
+2025-03-07 19:50:21,857 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:21] "GET /dashboard/_dash-dependencies HTTP/1.1" 200 -
+2025-03-07 19:50:22,125 - INFO - Temperature updated: 25.0°C
+2025-03-07 19:50:22,543 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:22,569 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:22] "GET /dashboard/_favicon.ico?v=2.9.3 HTTP/1.1" 200 -
+2025-03-07 19:50:23,148 - INFO - Temperature updated: 25.2°C
+2025-03-07 19:50:24,126 - INFO - Temperature updated: 25.1°C
+2025-03-07 19:50:24,528 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:24] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:25,149 - INFO - Temperature updated: 25.3°C
+2025-03-07 19:50:26,127 - INFO - Temperature updated: 25.2°C
+2025-03-07 19:50:26,520 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:26] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:27,150 - INFO - Temperature updated: 25.4°C
+2025-03-07 19:50:28,127 - INFO - Temperature updated: 25.3°C
+2025-03-07 19:50:28,518 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:28] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:29,151 - INFO - Temperature updated: 25.5°C
+2025-03-07 19:50:30,128 - INFO - Temperature updated: 25.4°C
+2025-03-07 19:50:30,531 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:31,151 - INFO - Temperature updated: 25.6°C
+2025-03-07 19:50:32,129 - INFO - Temperature updated: 25.5°C
+2025-03-07 19:50:32,523 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:33,152 - INFO - Temperature updated: 25.7°C
+2025-03-07 19:50:34,130 - INFO - Temperature updated: 25.6°C
+2025-03-07 19:50:34,527 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:34] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:35,153 - INFO - Temperature updated: 25.8°C
+2025-03-07 19:50:36,131 - INFO - Temperature updated: 25.7°C
+2025-03-07 19:50:36,537 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:37,154 - INFO - Temperature updated: 25.9°C
+2025-03-07 19:50:38,132 - INFO - Temperature updated: 25.8°C
+2025-03-07 19:50:39,155 - INFO - Temperature updated: 26.0°C
+2025-03-07 19:50:40,003 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:40] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:40,133 - INFO - Temperature updated: 25.9°C
+2025-03-07 19:50:41,156 - INFO - Temperature updated: 26.1°C
+2025-03-07 19:50:42,002 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:42] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:42,134 - INFO - Temperature updated: 26.0°C
+2025-03-07 19:50:43,157 - INFO - Temperature updated: 26.2°C
+2025-03-07 19:50:44,012 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:44] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:44,135 - INFO - Temperature updated: 26.1°C
+2025-03-07 19:50:45,158 - INFO - Temperature updated: 26.3°C
+2025-03-07 19:50:45,999 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:45] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:46,136 - INFO - Temperature updated: 26.2°C
+2025-03-07 19:50:47,159 - INFO - Temperature updated: 26.4°C
+2025-03-07 19:50:47,999 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:47] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:48,137 - INFO - Temperature updated: 26.3°C
+2025-03-07 19:50:49,160 - INFO - Temperature updated: 26.5°C
+2025-03-07 19:50:50,013 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:50] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:50,138 - INFO - Temperature updated: 26.4°C
+2025-03-07 19:50:51,161 - INFO - Temperature updated: 26.6°C
+2025-03-07 19:50:52,000 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:52,139 - INFO - Temperature updated: 26.5°C
+2025-03-07 19:50:53,162 - INFO - Temperature updated: 26.7°C
+2025-03-07 19:50:54,011 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:54] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:54,140 - INFO - Temperature updated: 26.6°C
+2025-03-07 19:50:55,163 - INFO - Temperature updated: 26.8°C
+2025-03-07 19:50:56,009 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:56] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:56,141 - INFO - Temperature updated: 26.7°C
+2025-03-07 19:50:57,164 - INFO - Temperature updated: 26.9°C
+2025-03-07 19:50:58,002 - INFO - 127.0.0.1 - - [07/Mar/2025 19:50:58] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:50:58,142 - INFO - Temperature updated: 26.8°C
+2025-03-07 19:50:59,165 - INFO - Temperature updated: 27.0°C
+2025-03-07 19:51:00,010 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:00,143 - INFO - Temperature updated: 26.9°C
+2025-03-07 19:51:01,166 - INFO - Temperature updated: 27.1°C
+2025-03-07 19:51:01,999 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:01] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:02,144 - INFO - Temperature updated: 27.0°C
+2025-03-07 19:51:03,167 - INFO - Temperature updated: 27.2°C
+2025-03-07 19:51:04,019 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:04] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:04,145 - INFO - Temperature updated: 27.1°C
+2025-03-07 19:51:05,168 - INFO - Temperature updated: 27.3°C
+2025-03-07 19:51:06,002 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:06] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:06,146 - INFO - Temperature updated: 27.2°C
+2025-03-07 19:51:07,169 - INFO - Temperature updated: 27.4°C
+2025-03-07 19:51:08,012 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:08] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:08,147 - INFO - Temperature updated: 27.3°C
+2025-03-07 19:51:09,170 - INFO - Temperature updated: 27.5°C
+2025-03-07 19:51:10,036 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:10,148 - INFO - Temperature updated: 27.4°C
+2025-03-07 19:51:11,171 - INFO - Temperature updated: 27.6°C
+2025-03-07 19:51:12,052 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:12,148 - INFO - Temperature updated: 27.5°C
+2025-03-07 19:51:13,172 - INFO - Temperature updated: 27.7°C
+2025-03-07 19:51:14,011 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:14] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:14,149 - INFO - Temperature updated: 27.6°C
+2025-03-07 19:51:15,172 - INFO - Temperature updated: 27.8°C
+2025-03-07 19:51:15,999 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:15] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:16,150 - INFO - Temperature updated: 27.7°C
+2025-03-07 19:51:17,173 - INFO - Temperature updated: 27.9°C
+2025-03-07 19:51:18,031 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:18] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:18,151 - INFO - Temperature updated: 27.8°C
+2025-03-07 19:51:19,174 - INFO - Temperature updated: 28.0°C
+2025-03-07 19:51:20,001 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:20] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:20,152 - INFO - Temperature updated: 27.9°C
+2025-03-07 19:51:21,175 - INFO - Temperature updated: 28.1°C
+2025-03-07 19:51:22,031 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:22,153 - INFO - Temperature updated: 28.0°C
+2025-03-07 19:51:23,177 - INFO - Temperature updated: 28.2°C
+2025-03-07 19:51:24,069 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:24] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:24,154 - INFO - Temperature updated: 28.1°C
+2025-03-07 19:51:25,178 - INFO - Temperature updated: 28.3°C
+2025-03-07 19:51:26,002 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:26] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:26,155 - INFO - Temperature updated: 28.2°C
+2025-03-07 19:51:27,179 - INFO - Temperature updated: 28.4°C
+2025-03-07 19:51:28,065 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:28] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:28,155 - INFO - Temperature updated: 28.3°C
+2025-03-07 19:51:29,180 - INFO - Temperature updated: 28.5°C
+2025-03-07 19:51:30,003 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:30,156 - INFO - Temperature updated: 28.4°C
+2025-03-07 19:51:31,181 - INFO - Temperature updated: 28.6°C
+2025-03-07 19:51:32,060 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:32,157 - INFO - Temperature updated: 28.5°C
+2025-03-07 19:51:33,182 - INFO - Temperature updated: 28.7°C
+2025-03-07 19:51:34,051 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:34] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:34,158 - INFO - Temperature updated: 28.6°C
+2025-03-07 19:51:35,183 - INFO - Temperature updated: 28.8°C
+2025-03-07 19:51:36,013 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:36,159 - INFO - Temperature updated: 28.7°C
+2025-03-07 19:51:37,183 - INFO - Temperature updated: 28.9°C
+2025-03-07 19:51:38,160 - INFO - Temperature updated: 28.8°C
+2025-03-07 19:51:39,185 - INFO - Temperature updated: 29.0°C
+2025-03-07 19:51:40,160 - INFO - Temperature updated: 28.9°C
+2025-03-07 19:51:41,185 - INFO - Temperature updated: 29.1°C
+2025-03-07 19:51:42,161 - INFO - Temperature updated: 29.0°C
+2025-03-07 19:51:43,186 - INFO - Temperature updated: 29.2°C
+2025-03-07 19:51:44,162 - INFO - Temperature updated: 29.1°C
+2025-03-07 19:51:45,187 - INFO - Temperature updated: 29.3°C
+2025-03-07 19:51:46,163 - INFO - Temperature updated: 29.2°C
+2025-03-07 19:51:47,188 - INFO - Temperature updated: 29.4°C
+2025-03-07 19:51:48,164 - INFO - Temperature updated: 29.3°C
+2025-03-07 19:51:49,012 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:49] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:49,023 - INFO - 127.0.0.1 - - [07/Mar/2025 19:51:49] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:51:49,189 - INFO - Temperature updated: 29.5°C
+2025-03-07 19:51:50,165 - INFO - Temperature updated: 29.4°C
+2025-03-07 19:51:51,190 - INFO - Temperature updated: 29.6°C
+2025-03-07 19:52:16,421 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,422 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,422 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,425 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,428 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,428 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,428 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,429 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,429 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,429 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,429 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,430 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,430 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,431 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,432 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,432 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,433 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,433 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,433 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,434 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,434 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,435 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,436 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,610 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,611 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,613 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,614 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,615 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,615 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,616 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,616 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:16,618 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:52:16,619 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,619 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,620 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,620 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,620 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,621 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,621 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,621 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,622 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,622 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:16,947 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,233 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,237 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,238 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,255 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,256 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,256 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,257 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,257 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,258 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,259 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,260 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,262 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,262 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,263 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,263 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,264 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,265 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,265 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,266 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,268 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,269 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,270 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,271 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,272 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,273 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,273 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,274 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,276 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,277 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,278 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,279 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,280 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,281 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,282 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,283 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,284 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,286 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,286 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,287 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,288 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:17,346 - INFO - Created internal session Internal
+2025-03-07 19:52:17,351 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:52:17,351 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:52:17,351 - INFO - starting internal server
+2025-03-07 19:52:17,376 - WARNING - Listening on localhost:4840
+2025-03-07 19:52:17,377 - INFO - Server started at ParseResult(scheme='opc.tcp', netloc='localhost:4840', path='/freeopcua/server/', params='', query='', fragment='')
+2025-03-07 19:52:18,305 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-03-07 19:52:18,306 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 19:52:18,309 - INFO -  * Restarting with stat
+2025-03-07 19:52:19,359 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:52:19,941 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,942 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,943 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,946 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,949 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,950 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,950 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,951 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,952 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,952 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,953 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,954 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,954 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,955 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,955 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,956 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,956 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,957 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,957 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,958 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,959 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,960 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:19,961 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,115 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,118 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,123 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,124 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,126 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,127 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,128 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,129 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,134 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:52:20,135 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,136 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,137 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,137 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,139 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,139 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,140 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,141 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,142 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,142 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:52:20,382 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,595 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,599 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,600 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,611 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,611 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,612 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,612 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,612 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,613 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,613 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,613 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,614 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,614 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,614 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,615 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,615 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,616 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,616 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,617 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,617 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,618 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,618 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,619 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,619 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,620 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,620 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,620 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,621 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,621 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,621 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,622 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,622 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,623 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,623 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,623 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,624 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,624 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,625 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,625 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,625 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:52:20,675 - INFO - Created internal session Internal
+2025-03-07 19:52:20,679 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:52:20,679 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:52:20,686 - INFO - starting internal server
+2025-03-07 19:52:20,702 - INFO - stopping internal server
+2025-03-07 19:52:20,702 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:52:20,703 - INFO - delete subscriptions: []
+2025-03-07 19:52:20,704 - ERROR - Failed to start OPC UA server: [Errno 10048] error while attempting to bind on address ('::1', 4840, 0, 0): [winerror 10048] only one usage of each socket address (protocol/network address/port) is normally permitted
+2025-03-07 19:52:20,705 - INFO - Closing asyncio socket server
+2025-03-07 19:52:20,705 - INFO - stopping internal server
+2025-03-07 19:52:20,705 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:52:20,706 - INFO - delete subscriptions: []
+2025-03-07 19:52:20,706 - INFO - OPC UA Server stopped.
+2025-03-07 19:52:20,715 - WARNING -  * Debugger is active!
+2025-03-07 19:52:20,721 - INFO -  * Debugger PIN: 692-304-562
+2025-03-07 19:52:20,865 - INFO - 127.0.0.1 - - [07/Mar/2025 19:52:20] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:52:21,360 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:52:22,023 - INFO - 127.0.0.1 - - [07/Mar/2025 19:52:22] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:52:22,686 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:52:23,361 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:52:24,015 - INFO - 127.0.0.1 - - [07/Mar/2025 19:52:24] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:52:24,687 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:52:25,361 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:52:26,005 - INFO - 127.0.0.1 - - [07/Mar/2025 19:52:26] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:52:26,688 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:52:27,362 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:52:28,013 - INFO - 127.0.0.1 - - [07/Mar/2025 19:52:28] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:22,997 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:22,998 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:22,998 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,001 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,004 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,004 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,005 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,005 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,006 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,006 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,007 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,008 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,008 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,009 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,010 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,011 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,011 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,011 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,012 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,013 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,014 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,014 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,016 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,142 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,143 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,145 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,146 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,147 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,147 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,148 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,148 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,150 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:53:23,151 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,151 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,151 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,152 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,152 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,152 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,153 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,153 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,153 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,154 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:23,366 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,564 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,568 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,569 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,580 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,580 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,581 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,581 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,581 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,582 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,582 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,583 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,583 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,584 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,584 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,584 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,585 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,585 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,585 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,586 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,586 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,587 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,587 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,587 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,588 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,588 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,588 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,589 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,589 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,589 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,590 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,590 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,590 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,591 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,591 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,593 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,593 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,593 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,594 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,594 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,595 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:23,639 - INFO - Created internal session Internal
+2025-03-07 19:53:23,642 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:53:23,643 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:53:23,643 - INFO - starting internal server
+2025-03-07 19:53:23,665 - WARNING - Listening on localhost:4840
+2025-03-07 19:53:23,666 - INFO - Server started at ParseResult(scheme='opc.tcp', netloc='localhost:4840', path='/freeopcua/server/', params='', query='', fragment='')
+2025-03-07 19:53:24,555 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-03-07 19:53:24,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 19:53:24,558 - INFO -  * Restarting with stat
+2025-03-07 19:53:25,650 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:53:25,994 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:25,994 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:25,995 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:25,997 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,001 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,001 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,002 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,002 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,003 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,003 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,004 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,004 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,004 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,005 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,005 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,006 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,006 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,006 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,007 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,007 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,008 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,008 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,009 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,123 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,124 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,126 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,126 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,127 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,127 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,128 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,128 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,130 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:53:26,130 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,131 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,131 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,131 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,132 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,132 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,132 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,133 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,133 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,133 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:53:26,339 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,539 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,542 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,544 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,553 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,554 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,554 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,554 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,555 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,555 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,555 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,556 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,556 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,557 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,557 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,558 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,558 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,559 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,559 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,560 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,560 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,561 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,561 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,562 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,562 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,563 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,563 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,563 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,564 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,564 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,565 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,565 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,566 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,566 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,566 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,567 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,567 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,567 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,568 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,568 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,568 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:53:26,614 - INFO - Created internal session Internal
+2025-03-07 19:53:26,618 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:53:26,619 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:53:26,625 - INFO - starting internal server
+2025-03-07 19:53:26,640 - INFO - stopping internal server
+2025-03-07 19:53:26,641 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:53:26,641 - INFO - delete subscriptions: []
+2025-03-07 19:53:26,643 - ERROR - Failed to start OPC UA server: [Errno 10048] error while attempting to bind on address ('::1', 4840, 0, 0): [winerror 10048] only one usage of each socket address (protocol/network address/port) is normally permitted
+2025-03-07 19:53:26,644 - INFO - Closing asyncio socket server
+2025-03-07 19:53:26,644 - INFO - stopping internal server
+2025-03-07 19:53:26,644 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:53:26,645 - INFO - delete subscriptions: []
+2025-03-07 19:53:26,646 - INFO - OPC UA Server stopped.
+2025-03-07 19:53:26,655 - WARNING -  * Debugger is active!
+2025-03-07 19:53:26,661 - INFO -  * Debugger PIN: 692-304-562
+2025-03-07 19:53:26,770 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:26] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:27,651 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:53:28,019 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:28] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:28,626 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:53:29,652 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:53:30,010 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:30] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:30,627 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:53:31,653 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:53:32,005 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:32] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:32,628 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:53:33,654 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:53:34,011 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:34] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:34,629 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:53:35,655 - INFO - Temperature updated: 23.2°C
+2025-03-07 19:53:36,005 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:36] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:36,630 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:53:37,656 - INFO - Temperature updated: 23.3°C
+2025-03-07 19:53:38,010 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:38] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:38,630 - INFO - Temperature updated: 23.2°C
+2025-03-07 19:53:39,657 - INFO - Temperature updated: 23.4°C
+2025-03-07 19:53:40,018 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:40] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:40,632 - INFO - Temperature updated: 23.3°C
+2025-03-07 19:53:41,658 - INFO - Temperature updated: 23.5°C
+2025-03-07 19:53:41,793 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:41] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:42,530 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:42] "[35m[1mPOST /dashboard/_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-07 19:53:42,632 - INFO - Temperature updated: 23.4°C
+2025-03-07 19:53:43,659 - INFO - Temperature updated: 23.6°C
+2025-03-07 19:53:43,805 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:43] "GET /dashboard/ HTTP/1.1" 200 -
+2025-03-07 19:53:43,985 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:43] "GET /dashboard/_dash-layout HTTP/1.1" 200 -
+2025-03-07 19:53:43,987 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:43] "GET /dashboard/_dash-dependencies HTTP/1.1" 200 -
+2025-03-07 19:53:44,634 - INFO - Temperature updated: 23.5°C
+2025-03-07 19:53:44,693 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:44] "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+2025-03-07 19:53:44,777 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:44] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:44,953 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:44] "GET /dashboard/_dash-component-suites/dash/dcc/async-plotlyjs.js HTTP/1.1" 200 -
+2025-03-07 19:53:45,660 - INFO - Temperature updated: 23.7°C
+2025-03-07 19:53:46,639 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:46] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:46,639 - INFO - Temperature updated: 23.6°C
+2025-03-07 19:53:47,661 - INFO - Temperature updated: 23.8°C
+2025-03-07 19:53:48,640 - INFO - Temperature updated: 23.7°C
+2025-03-07 19:53:48,650 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:48] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:49,661 - INFO - Temperature updated: 23.9°C
+2025-03-07 19:53:50,639 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:50] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:50,641 - INFO - Temperature updated: 23.8°C
+2025-03-07 19:53:51,662 - INFO - Temperature updated: 24.0°C
+2025-03-07 19:53:52,642 - INFO - Temperature updated: 23.9°C
+2025-03-07 19:53:52,653 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:53,663 - INFO - Temperature updated: 24.1°C
+2025-03-07 19:53:54,643 - INFO - Temperature updated: 24.0°C
+2025-03-07 19:53:54,651 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:54] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:55,664 - INFO - Temperature updated: 24.2°C
+2025-03-07 19:53:56,642 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:56] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:56,644 - INFO - Temperature updated: 24.1°C
+2025-03-07 19:53:57,665 - INFO - Temperature updated: 24.3°C
+2025-03-07 19:53:58,646 - INFO - Temperature updated: 24.2°C
+2025-03-07 19:53:58,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:53:58] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:53:59,665 - INFO - Temperature updated: 24.4°C
+2025-03-07 19:54:00,640 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:00,653 - INFO - Temperature updated: 24.3°C
+2025-03-07 19:54:01,666 - INFO - Temperature updated: 24.5°C
+2025-03-07 19:54:02,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:02] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:02,655 - INFO - Temperature updated: 24.4°C
+2025-03-07 19:54:03,667 - INFO - Temperature updated: 24.6°C
+2025-03-07 19:54:04,648 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:04] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:04,656 - INFO - Temperature updated: 24.5°C
+2025-03-07 19:54:05,668 - INFO - Temperature updated: 24.7°C
+2025-03-07 19:54:06,644 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:06] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:06,657 - INFO - Temperature updated: 24.6°C
+2025-03-07 19:54:07,669 - INFO - Temperature updated: 24.8°C
+2025-03-07 19:54:08,642 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:08] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:08,658 - INFO - Temperature updated: 24.7°C
+2025-03-07 19:54:09,670 - INFO - Temperature updated: 24.9°C
+2025-03-07 19:54:10,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:10,659 - INFO - Temperature updated: 24.8°C
+2025-03-07 19:54:11,671 - INFO - Temperature updated: 25.0°C
+2025-03-07 19:54:12,637 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:12,660 - INFO - Temperature updated: 24.9°C
+2025-03-07 19:54:13,672 - INFO - Temperature updated: 25.1°C
+2025-03-07 19:54:14,647 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:14] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:14,661 - INFO - Temperature updated: 25.0°C
+2025-03-07 19:54:15,673 - INFO - Temperature updated: 25.2°C
+2025-03-07 19:54:16,641 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:16] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:16,662 - INFO - Temperature updated: 25.1°C
+2025-03-07 19:54:17,674 - INFO - Temperature updated: 25.3°C
+2025-03-07 19:54:18,647 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:18] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:18,664 - INFO - Temperature updated: 25.2°C
+2025-03-07 19:54:19,675 - INFO - Temperature updated: 25.4°C
+2025-03-07 19:54:20,648 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:20] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:20,665 - INFO - Temperature updated: 25.3°C
+2025-03-07 19:54:21,676 - INFO - Temperature updated: 25.5°C
+2025-03-07 19:54:22,644 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:22,666 - INFO - Temperature updated: 25.4°C
+2025-03-07 19:54:23,677 - INFO - Temperature updated: 25.6°C
+2025-03-07 19:54:24,654 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:24] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:24,667 - INFO - Temperature updated: 25.5°C
+2025-03-07 19:54:25,678 - INFO - Temperature updated: 25.7°C
+2025-03-07 19:54:26,645 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:26] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:26,668 - INFO - Temperature updated: 25.6°C
+2025-03-07 19:54:27,679 - INFO - Temperature updated: 25.8°C
+2025-03-07 19:54:28,642 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:28] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:28,670 - INFO - Temperature updated: 25.7°C
+2025-03-07 19:54:29,680 - INFO - Temperature updated: 25.9°C
+2025-03-07 19:54:30,654 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:30,671 - INFO - Temperature updated: 25.8°C
+2025-03-07 19:54:31,681 - INFO - Temperature updated: 26.0°C
+2025-03-07 19:54:32,651 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:32,671 - INFO - Temperature updated: 25.9°C
+2025-03-07 19:54:33,682 - INFO - Temperature updated: 26.1°C
+2025-03-07 19:54:34,648 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:34] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:34,672 - INFO - Temperature updated: 26.0°C
+2025-03-07 19:54:35,683 - INFO - Temperature updated: 26.2°C
+2025-03-07 19:54:36,649 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:36,673 - INFO - Temperature updated: 26.1°C
+2025-03-07 19:54:37,684 - INFO - Temperature updated: 26.3°C
+2025-03-07 19:54:38,647 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:38] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:38,674 - INFO - Temperature updated: 26.2°C
+2025-03-07 19:54:39,685 - INFO - Temperature updated: 26.4°C
+2025-03-07 19:54:40,645 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:40] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:40,676 - INFO - Temperature updated: 26.3°C
+2025-03-07 19:54:41,685 - INFO - Temperature updated: 26.5°C
+2025-03-07 19:54:42,640 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:42] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:42,677 - INFO - Temperature updated: 26.4°C
+2025-03-07 19:54:43,686 - INFO - Temperature updated: 26.6°C
+2025-03-07 19:54:44,650 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:44] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:44,679 - INFO - Temperature updated: 26.5°C
+2025-03-07 19:54:45,687 - INFO - Temperature updated: 26.7°C
+2025-03-07 19:54:46,640 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:46] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:46,680 - INFO - Temperature updated: 26.6°C
+2025-03-07 19:54:47,688 - INFO - Temperature updated: 26.8°C
+2025-03-07 19:54:48,681 - INFO - Temperature updated: 26.7°C
+2025-03-07 19:54:49,689 - INFO - Temperature updated: 26.9°C
+2025-03-07 19:54:50,021 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:50] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:50,682 - INFO - Temperature updated: 26.8°C
+2025-03-07 19:54:51,690 - INFO - Temperature updated: 27.0°C
+2025-03-07 19:54:52,010 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:52,683 - INFO - Temperature updated: 26.9°C
+2025-03-07 19:54:53,690 - INFO - Temperature updated: 27.1°C
+2025-03-07 19:54:54,008 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:54] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:54,684 - INFO - Temperature updated: 27.0°C
+2025-03-07 19:54:55,691 - INFO - Temperature updated: 27.2°C
+2025-03-07 19:54:56,006 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:56] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:56,685 - INFO - Temperature updated: 27.1°C
+2025-03-07 19:54:57,692 - INFO - Temperature updated: 27.3°C
+2025-03-07 19:54:58,015 - INFO - 127.0.0.1 - - [07/Mar/2025 19:54:58] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:54:58,685 - INFO - Temperature updated: 27.2°C
+2025-03-07 19:54:59,693 - INFO - Temperature updated: 27.4°C
+2025-03-07 19:55:00,008 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:00,686 - INFO - Temperature updated: 27.3°C
+2025-03-07 19:55:01,694 - INFO - Temperature updated: 27.5°C
+2025-03-07 19:55:02,015 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:02] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:02,687 - INFO - Temperature updated: 27.4°C
+2025-03-07 19:55:03,695 - INFO - Temperature updated: 27.6°C
+2025-03-07 19:55:04,008 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:04] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:04,688 - INFO - Temperature updated: 27.5°C
+2025-03-07 19:55:05,696 - INFO - Temperature updated: 27.7°C
+2025-03-07 19:55:06,014 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:06] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:06,688 - INFO - Temperature updated: 27.6°C
+2025-03-07 19:55:07,697 - INFO - Temperature updated: 27.8°C
+2025-03-07 19:55:08,021 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:08] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:08,689 - INFO - Temperature updated: 27.7°C
+2025-03-07 19:55:08,924 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:08] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:09,698 - INFO - Temperature updated: 27.9°C
+2025-03-07 19:55:10,643 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:10,690 - INFO - Temperature updated: 27.8°C
+2025-03-07 19:55:11,699 - INFO - Temperature updated: 28.0°C
+2025-03-07 19:55:12,654 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:12,691 - INFO - Temperature updated: 27.9°C
+2025-03-07 19:55:13,700 - INFO - Temperature updated: 28.1°C
+2025-03-07 19:55:14,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:14] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:14,692 - INFO - Temperature updated: 28.0°C
+2025-03-07 19:55:15,701 - INFO - Temperature updated: 28.2°C
+2025-03-07 19:55:16,645 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:16] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:16,694 - INFO - Temperature updated: 28.1°C
+2025-03-07 19:55:17,702 - INFO - Temperature updated: 28.3°C
+2025-03-07 19:55:18,638 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:18] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:18,696 - INFO - Temperature updated: 28.2°C
+2025-03-07 19:55:19,703 - INFO - Temperature updated: 28.4°C
+2025-03-07 19:55:20,650 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:20] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:20,697 - INFO - Temperature updated: 28.3°C
+2025-03-07 19:55:21,703 - INFO - Temperature updated: 28.5°C
+2025-03-07 19:55:22,645 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:22,698 - INFO - Temperature updated: 28.4°C
+2025-03-07 19:55:23,704 - INFO - Temperature updated: 28.6°C
+2025-03-07 19:55:24,639 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:24] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:24,699 - INFO - Temperature updated: 28.5°C
+2025-03-07 19:55:25,705 - INFO - Temperature updated: 28.7°C
+2025-03-07 19:55:26,647 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:26] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:26,700 - INFO - Temperature updated: 28.6°C
+2025-03-07 19:55:27,706 - INFO - Temperature updated: 28.8°C
+2025-03-07 19:55:28,641 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:28] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:28,701 - INFO - Temperature updated: 28.7°C
+2025-03-07 19:55:29,707 - INFO - Temperature updated: 28.9°C
+2025-03-07 19:55:30,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:30,702 - INFO - Temperature updated: 28.8°C
+2025-03-07 19:55:31,709 - INFO - Temperature updated: 29.0°C
+2025-03-07 19:55:32,638 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:32,702 - INFO - Temperature updated: 28.9°C
+2025-03-07 19:55:33,710 - INFO - Temperature updated: 29.1°C
+2025-03-07 19:55:34,651 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:34] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:34,703 - INFO - Temperature updated: 29.0°C
+2025-03-07 19:55:35,711 - INFO - Temperature updated: 29.2°C
+2025-03-07 19:55:36,641 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:36,705 - INFO - Temperature updated: 29.1°C
+2025-03-07 19:55:37,711 - INFO - Temperature updated: 29.3°C
+2025-03-07 19:55:38,654 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:38] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:38,705 - INFO - Temperature updated: 29.2°C
+2025-03-07 19:55:39,712 - INFO - Temperature updated: 29.4°C
+2025-03-07 19:55:40,653 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:40] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:40,707 - INFO - Temperature updated: 29.3°C
+2025-03-07 19:55:41,713 - INFO - Temperature updated: 29.5°C
+2025-03-07 19:55:42,644 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:42] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:42,707 - INFO - Temperature updated: 29.4°C
+2025-03-07 19:55:43,714 - INFO - Temperature updated: 29.6°C
+2025-03-07 19:55:44,642 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:44] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:44,708 - INFO - Temperature updated: 29.5°C
+2025-03-07 19:55:45,715 - INFO - Temperature updated: 29.7°C
+2025-03-07 19:55:46,637 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:46] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:46,710 - INFO - Temperature updated: 29.6°C
+2025-03-07 19:55:47,715 - INFO - Temperature updated: 29.8°C
+2025-03-07 19:55:48,650 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:48] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:48,711 - INFO - Temperature updated: 29.7°C
+2025-03-07 19:55:49,716 - INFO - Temperature updated: 29.9°C
+2025-03-07 19:55:50,641 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:50] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:50,712 - INFO - Temperature updated: 29.8°C
+2025-03-07 19:55:51,717 - INFO - Temperature updated: 30.0°C
+2025-03-07 19:55:52,651 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:52,713 - INFO - Temperature updated: 29.9°C
+2025-03-07 19:55:53,718 - INFO - Temperature updated: 30.1°C
+2025-03-07 19:55:54,650 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:54] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:54,714 - INFO - Temperature updated: 30.0°C
+2025-03-07 19:55:55,719 - INFO - Temperature updated: 30.2°C
+2025-03-07 19:55:56,642 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:56] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:56,715 - INFO - Temperature updated: 30.1°C
+2025-03-07 19:55:57,719 - INFO - Temperature updated: 30.3°C
+2025-03-07 19:55:58,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:55:58] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:55:58,716 - INFO - Temperature updated: 30.2°C
+2025-03-07 19:55:59,720 - INFO - Temperature updated: 30.4°C
+2025-03-07 19:56:00,644 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:00,717 - INFO - Temperature updated: 30.3°C
+2025-03-07 19:56:01,722 - INFO - Temperature updated: 30.5°C
+2025-03-07 19:56:02,652 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:02] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:02,718 - INFO - Temperature updated: 30.4°C
+2025-03-07 19:56:03,723 - INFO - Temperature updated: 30.6°C
+2025-03-07 19:56:04,643 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:04] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:04,719 - INFO - Temperature updated: 30.5°C
+2025-03-07 19:56:05,724 - INFO - Temperature updated: 30.7°C
+2025-03-07 19:56:06,651 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:06] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:06,720 - INFO - Temperature updated: 30.6°C
+2025-03-07 19:56:07,724 - INFO - Temperature updated: 30.8°C
+2025-03-07 19:56:08,646 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:08] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:08,720 - INFO - Temperature updated: 30.7°C
+2025-03-07 19:56:09,725 - INFO - Temperature updated: 30.9°C
+2025-03-07 19:56:10,642 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:10,722 - INFO - Temperature updated: 30.8°C
+2025-03-07 19:56:11,726 - INFO - Temperature updated: 31.0°C
+2025-03-07 19:56:12,653 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:12,723 - INFO - Temperature updated: 30.9°C
+2025-03-07 19:56:13,727 - INFO - Temperature updated: 31.1°C
+2025-03-07 19:56:14,649 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:14] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:14,724 - INFO - Temperature updated: 31.0°C
+2025-03-07 19:56:15,728 - INFO - Temperature updated: 31.2°C
+2025-03-07 19:56:16,646 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:16] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:16,725 - INFO - Temperature updated: 31.1°C
+2025-03-07 19:56:17,729 - INFO - Temperature updated: 31.3°C
+2025-03-07 19:56:39,578 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,579 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,579 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,582 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,587 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,588 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,588 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,589 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,589 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,590 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,591 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,591 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,592 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,593 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,594 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,595 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,595 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,596 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,597 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,597 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,598 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,598 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,599 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,728 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,729 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,731 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,732 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,732 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,733 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,733 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,734 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:39,735 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:56:39,736 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,736 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,736 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,736 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,737 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,737 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,738 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,738 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,738 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,739 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:39,983 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,213 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,217 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,218 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,228 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,228 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,229 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,229 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,230 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,231 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,231 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,232 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,232 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,233 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,233 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,234 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,234 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,235 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,236 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,236 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,236 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,237 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,237 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,238 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,238 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,238 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,239 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,239 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,239 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,240 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,240 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,241 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,242 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,242 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,243 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,243 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,244 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,244 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,245 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,245 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,246 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:40,296 - INFO - Created internal session Internal
+2025-03-07 19:56:40,301 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:56:40,302 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:56:40,302 - INFO - starting internal server
+2025-03-07 19:56:40,328 - WARNING - Listening on localhost:4840
+2025-03-07 19:56:40,329 - INFO - Server started at ParseResult(scheme='opc.tcp', netloc='localhost:4840', path='/freeopcua/server/', params='', query='', fragment='')
+2025-03-07 19:56:41,223 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-03-07 19:56:41,224 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 19:56:41,226 - INFO -  * Restarting with stat
+2025-03-07 19:56:42,309 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:56:42,777 - INFO - add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,778 - INFO - add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,779 - INFO - add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,781 - INFO - add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,784 - INFO - add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,785 - INFO - add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,785 - INFO - add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,786 - INFO - add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,786 - INFO - add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,787 - INFO - add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,787 - INFO - add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,788 - INFO - add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,788 - INFO - add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,789 - INFO - add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,789 - INFO - add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,790 - INFO - add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,790 - INFO - add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,790 - INFO - add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,791 - INFO - add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,791 - INFO - add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,792 - INFO - add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,792 - INFO - add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,793 - INFO - add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,913 - INFO - add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,913 - INFO - add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,916 - INFO - add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,916 - INFO - add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,917 - INFO - add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,917 - INFO - add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,918 - INFO - add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,918 - INFO - add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:42,920 - INFO - add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+2025-03-07 19:56:42,920 - INFO - add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,921 - INFO - add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,921 - INFO - add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,922 - INFO - add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,922 - INFO - add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,922 - INFO - add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,923 - INFO - add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,923 - INFO - add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,923 - INFO - add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:42,924 - INFO - add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+2025-03-07 19:56:43,148 - INFO - add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,351 - INFO - add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,355 - INFO - add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,356 - INFO - add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,366 - INFO - add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,367 - INFO - add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,367 - INFO - add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,367 - INFO - add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,368 - INFO - add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,368 - INFO - add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,369 - INFO - add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,369 - INFO - add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,369 - INFO - add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,370 - INFO - add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,370 - INFO - add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,370 - INFO - add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,371 - INFO - add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,371 - INFO - add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,372 - INFO - add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,372 - INFO - add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,372 - INFO - add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,373 - INFO - add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,373 - INFO - add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,374 - INFO - add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,374 - INFO - add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,375 - INFO - add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,375 - INFO - add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,375 - INFO - add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,376 - INFO - add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,376 - INFO - add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,377 - INFO - add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,377 - INFO - add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,378 - INFO - add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,379 - INFO - add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,380 - INFO - add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,380 - INFO - add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,380 - INFO - add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,381 - INFO - add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,381 - INFO - add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,381 - INFO - add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,382 - INFO - add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+2025-03-07 19:56:43,426 - INFO - Created internal session Internal
+2025-03-07 19:56:43,430 - WARNING - Endpoints other than open requested but private key and certificate are not set.
+2025-03-07 19:56:43,431 - INFO - Temperature updated: 22.6°C
+2025-03-07 19:56:43,437 - INFO - starting internal server
+2025-03-07 19:56:43,452 - INFO - stopping internal server
+2025-03-07 19:56:43,453 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:56:43,453 - INFO - delete subscriptions: []
+2025-03-07 19:56:43,455 - ERROR - Failed to start OPC UA server: [Errno 10048] error while attempting to bind on address ('::1', 4840, 0, 0): [winerror 10048] only one usage of each socket address (protocol/network address/port) is normally permitted
+2025-03-07 19:56:43,455 - INFO - Closing asyncio socket server
+2025-03-07 19:56:43,455 - INFO - stopping internal server
+2025-03-07 19:56:43,456 - INFO - close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+2025-03-07 19:56:43,456 - INFO - delete subscriptions: []
+2025-03-07 19:56:43,457 - INFO - OPC UA Server stopped.
+2025-03-07 19:56:43,467 - WARNING -  * Debugger is active!
+2025-03-07 19:56:43,472 - INFO -  * Debugger PIN: 692-304-562
+2025-03-07 19:56:43,605 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:43] "GET /dashboard/ HTTP/1.1" 200 -
+2025-03-07 19:56:43,694 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:43] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:43,697 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:43] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:43,908 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:43] "GET /dashboard/_dash-layout HTTP/1.1" 200 -
+2025-03-07 19:56:43,909 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:43] "GET /dashboard/_dash-dependencies HTTP/1.1" 200 -
+2025-03-07 19:56:44,310 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:56:44,531 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:44] "[36mGET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-07 19:56:44,541 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:44] "[36mGET /dashboard/_dash-component-suites/dash/dcc/async-plotlyjs.js HTTP/1.1[0m" 304 -
+2025-03-07 19:56:44,556 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:44] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:45,438 - INFO - Temperature updated: 22.7°C
+2025-03-07 19:56:46,311 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:56:46,535 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:46] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:47,438 - INFO - Temperature updated: 22.8°C
+2025-03-07 19:56:48,312 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:56:48,546 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:48] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:49,440 - INFO - Temperature updated: 22.9°C
+2025-03-07 19:56:50,312 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:56:50,540 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:50] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:51,441 - INFO - Temperature updated: 23.0°C
+2025-03-07 19:56:52,313 - INFO - Temperature updated: 23.2°C
+2025-03-07 19:56:52,550 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:53,442 - INFO - Temperature updated: 23.1°C
+2025-03-07 19:56:54,314 - INFO - Temperature updated: 23.3°C
+2025-03-07 19:56:54,542 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:54] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:55,443 - INFO - Temperature updated: 23.2°C
+2025-03-07 19:56:56,315 - INFO - Temperature updated: 23.4°C
+2025-03-07 19:56:56,537 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:56] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:57,444 - INFO - Temperature updated: 23.3°C
+2025-03-07 19:56:58,316 - INFO - Temperature updated: 23.5°C
+2025-03-07 19:56:58,545 - INFO - 127.0.0.1 - - [07/Mar/2025 19:56:58] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:56:59,445 - INFO - Temperature updated: 23.4°C
+2025-03-07 19:57:00,317 - INFO - Temperature updated: 23.6°C
+2025-03-07 19:57:00,539 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:01,446 - INFO - Temperature updated: 23.5°C
+2025-03-07 19:57:02,318 - INFO - Temperature updated: 23.7°C
+2025-03-07 19:57:02,545 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:02] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:03,447 - INFO - Temperature updated: 23.6°C
+2025-03-07 19:57:04,318 - INFO - Temperature updated: 23.8°C
+2025-03-07 19:57:04,535 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:04] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:05,448 - INFO - Temperature updated: 23.7°C
+2025-03-07 19:57:06,319 - INFO - Temperature updated: 23.9°C
+2025-03-07 19:57:06,546 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:06] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:07,449 - INFO - Temperature updated: 23.8°C
+2025-03-07 19:57:08,320 - INFO - Temperature updated: 24.0°C
+2025-03-07 19:57:08,537 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:08] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:09,450 - INFO - Temperature updated: 23.9°C
+2025-03-07 19:57:10,321 - INFO - Temperature updated: 24.1°C
+2025-03-07 19:57:10,537 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:11,451 - INFO - Temperature updated: 24.0°C
+2025-03-07 19:57:12,322 - INFO - Temperature updated: 24.2°C
+2025-03-07 19:57:12,545 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:13,452 - INFO - Temperature updated: 24.1°C
+2025-03-07 19:57:14,323 - INFO - Temperature updated: 24.3°C
+2025-03-07 19:57:14,547 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:14] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:15,452 - INFO - Temperature updated: 24.2°C
+2025-03-07 19:57:16,324 - INFO - Temperature updated: 24.4°C
+2025-03-07 19:57:16,536 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:16] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:17,453 - INFO - Temperature updated: 24.3°C
+2025-03-07 19:57:18,325 - INFO - Temperature updated: 24.5°C
+2025-03-07 19:57:18,544 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:18] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:19,454 - INFO - Temperature updated: 24.4°C
+2025-03-07 19:57:20,325 - INFO - Temperature updated: 24.6°C
+2025-03-07 19:57:20,539 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:20] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:21,455 - INFO - Temperature updated: 24.5°C
+2025-03-07 19:57:22,326 - INFO - Temperature updated: 24.7°C
+2025-03-07 19:57:22,550 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:23,456 - INFO - Temperature updated: 24.6°C
+2025-03-07 19:57:24,327 - INFO - Temperature updated: 24.8°C
+2025-03-07 19:57:24,539 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:24] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:25,457 - INFO - Temperature updated: 24.7°C
+2025-03-07 19:57:26,328 - INFO - Temperature updated: 24.9°C
+2025-03-07 19:57:26,546 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:26] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:27,458 - INFO - Temperature updated: 24.8°C
+2025-03-07 19:57:28,329 - INFO - Temperature updated: 25.0°C
+2025-03-07 19:57:28,542 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:28] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:29,459 - INFO - Temperature updated: 24.9°C
+2025-03-07 19:57:30,330 - INFO - Temperature updated: 25.1°C
+2025-03-07 19:57:30,535 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:31,460 - INFO - Temperature updated: 25.0°C
+2025-03-07 19:57:32,331 - INFO - Temperature updated: 25.2°C
+2025-03-07 19:57:32,541 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:33,461 - INFO - Temperature updated: 25.1°C
+2025-03-07 19:57:34,332 - INFO - Temperature updated: 25.3°C
+2025-03-07 19:57:34,543 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:34] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:35,462 - INFO - Temperature updated: 25.2°C
+2025-03-07 19:57:36,333 - INFO - Temperature updated: 25.4°C
+2025-03-07 19:57:36,546 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:37,463 - INFO - Temperature updated: 25.3°C
+2025-03-07 19:57:38,334 - INFO - Temperature updated: 25.5°C
+2025-03-07 19:57:38,541 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:38] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:39,464 - INFO - Temperature updated: 25.4°C
+2025-03-07 19:57:40,335 - INFO - Temperature updated: 25.6°C
+2025-03-07 19:57:41,465 - INFO - Temperature updated: 25.5°C
+2025-03-07 19:57:42,008 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:42] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:42,336 - INFO - Temperature updated: 25.7°C
+2025-03-07 19:57:43,466 - INFO - Temperature updated: 25.6°C
+2025-03-07 19:57:44,013 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:44] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:44,337 - INFO - Temperature updated: 25.8°C
+2025-03-07 19:57:45,467 - INFO - Temperature updated: 25.7°C
+2025-03-07 19:57:46,007 - INFO - 127.0.0.1 - - [07/Mar/2025 19:57:46] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-07 19:57:46,338 - INFO - Temperature updated: 25.9°C
